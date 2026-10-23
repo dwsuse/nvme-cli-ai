@@ -34,6 +34,7 @@ CLAUDE.md               This file — loaded automatically by Claude Code
     checkpatch-known-false-positives.md
     coding-style.md
     commit-messages.md
+    fuzzing.md
     git-workflow.md
     license-headers.md
     windows-cross-build.md
